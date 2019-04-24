@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Indieteur.ChecksumZIP</id>
+    <version>1.0.0</version>
+    <title>Indieteur.ChecksumZIP</title>
+    <authors>Indieteur</authors>
+    <licenseUrl>https://github.com/Indieteur/ChecksumZIP/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Indieteur/ChecksumZIP</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An archive checksum check system library.</description>
+    <copyright>Copyright Indieteur 2019</copyright>
+    <tags>Archive, Checksum, Check, System</tags>
+  </metadata>
+  <files>
+	<file src="source\Indieteur.ChecksumZIP.dll" target="lib\Indieteur.ChecksumZIP.dll" />
+  </files>
+</package>
