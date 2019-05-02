@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Indieteur.ChecksumZIP</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>Indieteur.ChecksumZIP</title>
     <authors>Indieteur</authors>
     <licenseUrl>https://github.com/Indieteur/ChecksumZIP/blob/master/LICENSE</licenseUrl>
@@ -14,5 +14,6 @@
   </metadata>
   <files>
 	<file src="source\Indieteur.ChecksumZIP.dll" target="lib\Indieteur.ChecksumZIP.dll" />
+	<file src="source\Indieteur.ChecksumZIP.dll.config" target="lib\Indieteur.ChecksumZIP.dll.config" />
   </files>
 </package>
